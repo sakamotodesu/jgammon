@@ -1,6 +1,6 @@
 == jgammon
 
-[![sakamotodesu](https://circleci.com/gh/sakamotodesu/jgammon.svg?style=svg)](https://app.circleci.com/pipelines/github/sakamotodesu/jgammon)
+image:https://circleci.com/gh/sakamotodesu/jgammon.svg?style=svg["sakamotodesu", link="https://circleci.com/gh/sakamotodesu/jgammon"]
 
 Javaで実装された、バックギャモンの自己対局プログラムです。
 
